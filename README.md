@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dev-bhavya
-- 👀 I’m interested in web developement & finance
-- 🌱 I’m currently learning about business administration
+- 👀 I’m interested in Java and Spring
+- 🌱 I’m currently building a backend journal App using spring framework
 - 💞️ I’m looking to collaborate & discuss on unpopular opinions, startup ideas, business strategies and technology
-- 📫 How to reach me ... [bhavyam.ee.20@nitj.ac.in](bhavyam.ee.20@nitj.ac.in)
+- 📫 How to reach me ... [devsbhavya@gmail.com](devsbhavya@gmail.com)
 
 <!---
 dev-bhavya/dev-bhavya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
